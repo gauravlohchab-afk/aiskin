@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /includes/
+
+Sitemap: http://aiskinrevolution.com/sitemap.xml
